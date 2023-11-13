@@ -112,7 +112,7 @@ body {
 }
 
 img {
-  height: auto;
+  height: 150px;
   max-width: 100%;
   border: none;
   outline: none;
