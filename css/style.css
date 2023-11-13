@@ -72,7 +72,11 @@ body {
   font-size: 16px;
   line-height: 29px;
   color: #ffffff;
-  background-color: rgb(0, 0, 0);
+  background: url(/images/14121189_5438112.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .samplescontainer{
   display: flex;
@@ -3363,6 +3367,7 @@ h3 {
 
 .footer-content {
   padding-bottom: 80px;
+  background-color: #000;
 }
 
 .footer-content .footer-logo p {
@@ -3405,6 +3410,7 @@ h3 {
 .copyright {
   padding: 35px 0px;
   border-top: 1px solid #282c32;
+  background-color: #000;
 }
 
 .copyright .copyright-text a {
